@@ -31,6 +31,7 @@ return $submittedAnswers;
 if(isset($_POST['submit'])){
     $name = htmlspecialchars($_POST['name']);
     $email = htmlspecialchars($_POST['email']);
+    $phoneNumber = htmlspecialchars($_POST['phoneNumber']);
     $university = htmlspecialchars($_POST['university']);
     $college = htmlspecialchars($_POST['college']);
     $workshopID = htmlspecialchars($_POST['workshopID']);

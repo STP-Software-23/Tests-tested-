@@ -29,6 +29,12 @@
                                 <input type="text" name="email" class="form-control" placeholder="Email" required>
                             </div>
                         </div>
+                        <div class="col-lg-12">
+                            <div class="form-group ">
+                                <i class="fa-solid fa-user icon"></i>
+                                <input type="text" name="phoneNumber" class="form-control" placeholder="phoneNumber" required>
+                            </div>
+                        </div>
 
                         <div class="col-lg-12">
                             <div class="form-group ">
@@ -43,6 +49,7 @@
                                 <input type="text" name="college" class="form-control" placeholder="Faculty" required>
                             </div>
                         </div>
+
                         
                    </div>
                 </form>

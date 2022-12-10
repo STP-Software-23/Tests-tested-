@@ -17,6 +17,7 @@
                     <input name="name" placeholder="name"/>
                     <br>
                     <input name="email" placeholder='email'/><br>
+                    <input name="phoneNumber" placeholder='phoneNumber'/><br>
                     <input name="college" placeholder='college'/> <br>
                     <input name="university" placeholder='university' /> <br>
                     <input name="workshopID" placeholder='workshopID'/>

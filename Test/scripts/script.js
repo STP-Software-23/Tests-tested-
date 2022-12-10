@@ -19,7 +19,6 @@ let testsObj = {
 let params = (new URL(document.location)).searchParams;
 let token = params.get("workshop");
 
-
 const form = document.getElementById('q-form')
 let counter = 0
 let idForRadio = 0

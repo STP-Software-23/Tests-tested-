@@ -8,6 +8,7 @@ $connectionParameters = [
     "password" => "STePss@21/CP_BoArd&16Y",
     "dbName" => "stpeg123_stpeg23_workshops",
 ];
+
 $connection = mysqli_connect($connectionParameters['host'],$connectionParameters['username'],$connectionParameters['password'],$connectionParameters['dbName']);
 
 //Check connection

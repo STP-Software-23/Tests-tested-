@@ -1,0 +1,52 @@
+body {
+    background-image:url('./bg-logo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.questionForm {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.QA {
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    background-color: #fff;
+    font-size: 12pt;
+    font-family: 'Helvetica';
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 5%;
+}
+
+input {
+    margin-right: 5px;
+    
+}
+
+#choices {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.form-check-label {
+    display: flex;
+}
+
+.juhayna-button {
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    float: right;
+}

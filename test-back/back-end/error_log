@@ -1,0 +1,1336 @@
+[03-Dec-2022 23:32:03 America/Chicago] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 12
+[06-Dec-2022 18:56:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[06-Dec-2022 18:56:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[06-Dec-2022 18:56:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[06-Dec-2022 18:56:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[06-Dec-2022 18:57:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:27:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:27:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:27:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:27:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:28:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:28:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:29:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:30:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 01:30:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 03:36:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 03:36:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 03:36:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:36:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:36:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:36:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:37:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:37:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:37:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:37:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:37:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:38:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:38:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:39:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:53:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 04:53:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:31:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:31:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:31:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:32:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:32:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:32:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 06:54:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 07:03:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 07:59:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 07:59:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 07:59:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:27:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:27:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:27:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:27:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:28:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:28:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:30:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:47:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:54:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:54:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 09:54:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 10:42:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 10:43:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:00:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:00:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:00:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:01:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:02:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:03:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:05:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:07:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:08:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:09:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:10:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:11:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:15:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:16:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:16:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:16:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:26:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:27:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:27:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:27:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:27:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 11:27:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:23:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:23:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:24:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:25:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:26:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:27:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:55:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:55:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:55:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:55:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 12:55:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:38:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:40:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:40:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:49:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:49:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:49:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 13:49:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:37:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:37:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:37:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:37:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:37:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:38:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:38:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:38:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 14:39:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:02:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:02:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:02:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:04:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:04:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:04:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:05:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:05:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:05:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:05:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:06:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:10:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:10:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:17:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:17:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:18:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 15:47:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:17:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:20:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:20:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:55:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:55:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:55:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:56:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 16:58:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:10:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:10:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:10:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:17:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:18:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:26:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:53:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 17:54:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 18:33:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 18:34:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 18:36:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 21:25:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 21:25:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[07-Dec-2022 21:26:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 01:18:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 01:18:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 02:28:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 03:16:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 04:06:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 04:44:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 04:52:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 04:52:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:02:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:02:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:02:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:02:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:02:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:03:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:04:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:18:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:19:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:25:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:26:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:36:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:52:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:52:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:52:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:52:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:54:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:54:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:54:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:55:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 05:55:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:21:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:21:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:21:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:23:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:37:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:39:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:39:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:39:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 06:39:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:43:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:43:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:43:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:44:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:47:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 07:47:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 08:07:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 10:41:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 10:41:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 10:41:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 10:41:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 11:05:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:00:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:19:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:27:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:27:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:28:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:29:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:29:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:36:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:49:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:49:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:49:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:49:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:49:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:54:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:57:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:57:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 12:57:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:00:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:00:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:06:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:07:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:07:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:11:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:30:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:35:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:40:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 13:40:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 14:24:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 14:24:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 14:25:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 14:29:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:54:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:57:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:57:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:57:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 15:58:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:05:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:06:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(52): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:09:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:10:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:11:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:11:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:20
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 20
+[08-Dec-2022 16:11:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:21
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 21
+[08-Dec-2022 16:12:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:12:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:13:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:13:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:14:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:14:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:15:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:17:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:17:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:22
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 22
+[08-Dec-2022 16:18:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function primaryFieldValidation() in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php:23
+Stack trace:
+#0 /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/saveData.php(49): include()
+#1 {main}
+  thrown in /home3/stpeg123/public_html/stp23/technical-test/test-back/back-end/Database/dbInsertion.php on line 23
